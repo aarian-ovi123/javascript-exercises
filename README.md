@@ -17,3 +17,6 @@ JavaScript exercises from my programming classes.
 These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
 
 - **Horizontal Lines** – A function that draws horizontal lines at different heights and lengths.
+- **Click for Rectangles** – Draws a randomly colored rectangle wherever you click.
+- **Graphics Stop Light** – Draws a centered stoplight with red, yellow and green lights.
+- **Pool Table** – A function that draws numbered pool balls in any color and position.
