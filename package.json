@@ -1,0 +1,8 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "JavaScript exercises from my programming classes.",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
