@@ -21,11 +21,11 @@ JavaScript exercises from my programming classes.
 - **Factorial** – Calculates N! using a for loop.
 - **Recursion Problems** – Four recursive functions: power of three, multiple of three, power of two and perfect square.
 - **Reverse List** – Reverses an array.
-- **List of Prime Numbers** – Stores the prime numbers under 100 in an array and prints a few by index.
+- **List of Prime Numbers** – Stores the first 5 prime numbers in an array and prints a few by index.
 - **Top Movies** – An array of favorite movies that replaces the first one with "Star Wars."
 - **Empty Array (Push/Pop)** – Adds different types of values to an array with push(), then removes them with pop().
 - **Product of List** – Multiplies every number in an array together.
-- **Print Flight Itinerary** – Prints each flight in a trip across U.S. cities.
+- **Print Flight Itinerary** – Prints a trip from Miami across U.S. cities, with arrows between each stop.
 
 ### CodeHS Graphics
 These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
