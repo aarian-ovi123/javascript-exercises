@@ -6,3 +6,9 @@ JavaScript exercises from my programming classes.
 - **Triple** – A function that multiplies a number by three.
 - **Square** – A function that multiplies a number by itself.
 - **Ride Simulation** – Simulates amusement park rides for however many tickets you buy, then awards a prize based on how many rides you enjoyed.
+- **Disney World** – Decides whether you can go to Disney World today based on your ticket, school night and money.
+- **Meal Planner** – Recommends a meal for breakfast, lunch or dinner.
+- **School's Out** – Figures out whether there's school today based on weekdays and holidays.
+- **Can You Graduate?** – Checks whether you have enough credits and met the requirements to graduate.
+- **Hello, World** – Prints a greeting with my name and favorite hobby.
+- **Running Speed** – Calculates your running speed in miles per hour from distance and time.
