@@ -12,6 +12,10 @@ JavaScript exercises from my programming classes.
 - **Can You Graduate?** – Checks whether you have enough credits and met the requirements to graduate.
 - **Hello, World** – Prints a greeting with my name and favorite hobby.
 - **Running Speed** – Calculates your running speed in miles per hour from distance and time.
+- - **Return Values** – `square` and `quadruple` functions that return their results instead of printing them.
+- **Inventory** – Tracks a store's inventory as the user buys items, rejecting purchases that are too big or invalid.
+- **Min** – A function that returns the smaller of two numbers.
+- **Even or Odd?** – Tells whether each number you enter is even or odd, until you enter 0.
 
 ### CodeHS Graphics
 These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
