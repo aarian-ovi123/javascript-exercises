@@ -12,3 +12,8 @@ JavaScript exercises from my programming classes.
 - **Can You Graduate?** – Checks whether you have enough credits and met the requirements to graduate.
 - **Hello, World** – Prints a greeting with my name and favorite hobby.
 - **Running Speed** – Calculates your running speed in miles per hour from distance and time.
+
+### CodeHS Graphics
+These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
+
+- **Horizontal Lines** – A function that draws horizontal lines at different heights and lengths.
