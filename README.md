@@ -26,7 +26,12 @@ JavaScript exercises from my programming classes.
 - **Empty Array (Push/Pop)** – Adds different types of values to an array with push(), then removes them with pop().
 - **Product of List** – Multiplies every number in an array together.
 - **Print Flight Itinerary** – Prints a trip from Miami across U.S. cities, with arrows between each stop.
-
+- **Double List** – Returns a new list with every item appearing twice.
+- **Evens Only List** – Returns a new list with only the even numbers.
+- **Reverse List (Loop)** – Reverses a list by looping backwards into a new array.
+- **Array Methods** – Practices indexOf, splice, remove, arrow functions, map, filter, forEach and reduce.
+- **Temperature Conversion** – Converts a 2D grid of Celsius temperatures to Fahrenheit and prints each row.
+  
 ### CodeHS Graphics
 These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
 
