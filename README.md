@@ -16,6 +16,11 @@ JavaScript exercises from my programming classes.
 - **Inventory** – Tracks a store's inventory as the user buys items, rejecting purchases that are too big or invalid.
 - **Min** – A function that returns the smaller of two numbers.
 - **Even or Odd?** – Tells whether each number you enter is even or odd, until you enter 0.
+- - **Logical Operators** – Demonstrates NOT, AND and OR with a light switch, presidential requirements and social media.
+- **Obi-Wan Says** – Asks your name and how many droids and Wookiees you want to meet.
+- **Factorial** – Calculates N! using a for loop.
+- **Recursion Problems** – Four recursive functions: power of three, multiple of three, power of two and perfect square.
+- **Reverse List** – Reverses an array.
 
 ### CodeHS Graphics
 These use CodeHS's graphics library, so they run on codehs.com rather than in Node.js.
